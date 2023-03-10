@@ -1,0 +1,2 @@
+# MSIPACKAGERELEAESE
+用于存储各类由Advanced INSTALLER制作并测试通过的安装包
