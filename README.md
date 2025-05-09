@@ -1,6 +1,6 @@
 # NginxSetup_xxx.exe
 
-> 该文件为openresty-1.27.1.1打包后的安装包，已添加常见Nginx配置参数，如：去除Server头，uwsgi、fastcgi、proxy的超时配置，uwsgi、fastcgi、proxy的buffer等等配置。
+> 该文件为openresty-1.27.1.2打包后的安装包，已添加常见Nginx配置参数，如：去除Server头，uwsgi、fastcgi、proxy的超时配置，uwsgi、fastcgi、proxy的buffer等等配置。
 
 ### 默认基础加固配置一览
 
